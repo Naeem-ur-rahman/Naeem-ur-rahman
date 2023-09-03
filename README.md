@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naeem-ur-rahman</h1>
-<h3 align="center">A passionate frontend developer and programmer from Pakistan</h3>
+<h3 align="center">A passionate Web developer and programmer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://naeem-ur-rahman.github.io/portfolio/](https://naeem-ur-rahman.github.io/portfolio/)
 
