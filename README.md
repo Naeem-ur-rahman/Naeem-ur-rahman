@@ -6,7 +6,7 @@
 <div class="row" align="center">
     <img src="https://img.shields.io/github/followers/Naeem-ur-rahman?label=Github%20Followers&style=for-the-badge" alt="Naeem-ur-rahman" />
     <img src="https://img.shields.io/github/stars/Naeem-ur-rahman?label=Github%20stars&style=for-the-badge" alt="Naeem-ur-rahman" />
-    <img  src="https://komarev.com/ghpvc/?username=Naeem-ur-rahman&label=Profile Views&color=blue&style=for-the-badge" alt="Naeem-ur-rahman" />
+<!--     <img  src="https://komarev.com/ghpvc/?username=Naeem-ur-rahman&label=Profile Views&color=blue&style=for-the-badge" alt="Naeem-ur-rahman" /> -->
 </div>
 <br>
 
