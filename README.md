@@ -10,9 +10,9 @@
 </div>
 <br>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [https://naeem-ur-rahman.github.io/portfolio/](https://naeem-ur-rahman.github.io/portfolio/)
-- 💬 Ask me about **MERN and Related tech**
+- 💬 Ask me about **Software Development and Related tech**
 - 📫 How to reach me **naeemur1001@gmail.com**
 
 ### Connect with me
