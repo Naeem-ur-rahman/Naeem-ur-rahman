@@ -27,7 +27,9 @@
 <be>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem-ur-rahman&show_icons=true&locale=en&layout=compact" alt="naeem-ur-rahman" /></p> -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeem-ur-rahman&show_icons=true&locale=en" alt="naeem-ur-rahman" />
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NaeemUrRahmanSajid)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeem-ur-rahman&show_icons=true&locale=en" alt="naeem-ur-rahman" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeem-ur-rahman&" alt="naeem-ur-rahman" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeem-ur-rahman&" alt="naeem-ur-rahman" />
