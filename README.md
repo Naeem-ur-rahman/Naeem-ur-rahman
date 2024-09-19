@@ -23,7 +23,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,postman,git,github,githubactions,netlify,tailwind,threejs,php,figma,vscode,python,cpp,java,mysql&theme=light)]([https://naeemurrahman.netlify.app/])
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,redux,graphql,python,cpp,java,postman,git,github,netlify,threejs,php,figma,vscode,mysql&theme=light)]([https://naeemurrahman.netlify.app/])
 <be>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem-ur-rahman&show_icons=true&locale=en&layout=compact" alt="naeem-ur-rahman" /></p> -->
