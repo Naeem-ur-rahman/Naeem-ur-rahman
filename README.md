@@ -17,14 +17,24 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/naeem-ur-rahman-sajid/"> <img align="left" alt="Naeem ur Rahman | LinkedIn" target="blank" src="https://skillicons.dev/icons?i=linkedin"/> </a>
-<a href="https://www.instagram.com/naeemurrahmansajid/"> <img align="left" alt="Naeem ur Rahman | Instagram" target="blank" src="https://skillicons.dev/icons?i=instagram"/> </a>
-<br><br>
+[<img align="left" alt="Naeem ur Rahman Sajid | Website" target="blank" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
+[<img align="left" alt="Naeem ur Rahman Sajid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="Naeem ur Rahman Sajid | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="Naeem ur Rahman Sajid | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
+[<img align="left" alt="Naeem ur Rahman Sajid | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+
+<br>
 
 ### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,redux,graphql,python,cpp,java,postman,git,github,netlify,threejs,php,figma,vscode,mysql&theme=light)]([https://naeemurrahman.netlify.app/])
 <be>
+
+[website]:https://naeem-ur-rahman.github.io/portfolio/
+[mail]: mailto:naeemur1001@gmail.com
+[instagram]: https://www.instagram.com/naeemurrahmansajid/
+[whatsapp]: https://wa.me/923211610373
+[linkedin]: https://www.linkedin.com/in/naeem-ur-rahman-sajid/
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem-ur-rahman&show_icons=true&locale=en&layout=compact" alt="naeem-ur-rahman" /></p> -->
 
