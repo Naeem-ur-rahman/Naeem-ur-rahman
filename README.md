@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Naeem-ur-rahman</h1>
 
-<h3 align="center">A passionate Full Stack Developer and Programmer</h3>
+<h3 align="center">A Passionate Software Engineer, MERN Stack Developer and Programmer</h3>
 <br>
 
 <div class="row" align="center">
     <img src="https://img.shields.io/github/followers/Naeem-ur-rahman?label=Github%20Followers&style=for-the-badge" alt="Naeem-ur-rahman" />
     <img src="https://img.shields.io/github/stars/Naeem-ur-rahman?label=Github%20stars&style=for-the-badge" alt="Naeem-ur-rahman" />
-<!--     <img  src="https://komarev.com/ghpvc/?username=Naeem-ur-rahman&label=Profile Views&color=blue&style=for-the-badge" alt="Naeem-ur-rahman" /> -->
+    <img  src="https://komarev.com/ghpvc/?username=Naeem-ur-rahman&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Naeem-ur-rahman" />
 </div>
 <br>
 
-- 🌱 I’m currently learning **Backend Development**
-- 👨‍💻 All of my projects are available at [https://naeem-ur-rahman.github.io/portfolio/](https://naeem-ur-rahman.github.io/portfolio/)
+- 🌱 I’m currently learning **MERN Stack & React Native**
+- 👨‍💻 All of my projects are available at [Portfolio](https://naeem-ur-rahman.github.io/portfolio/)
 - 💬 Ask me about **Software Development and Related tech**
 - 📫 How to reach me **naeemur1001@gmail.com**
 
